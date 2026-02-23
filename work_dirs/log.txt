@@ -1,0 +1,99 @@
+✅ Best model saved! Acc=0.9052
+Epoch [ 1/40] | LR=0.000010 | Train loss=0.6979 acc=0.7683 | Val loss=0.2727 acc=0.9052 | time=30.1s
+Epoch [ 2/40] | LR=0.000108 | Train loss=0.4587 acc=0.8360 | Val loss=0.4651 acc=0.8555 | time=30.7s
+Epoch [ 3/40] | LR=0.000206 | Train loss=0.4669 acc=0.8392 | Val loss=0.2916 acc=0.8983 | time=30.3s
+Epoch [ 4/40] | LR=0.000304 | Train loss=0.5116 acc=0.8213 | Val loss=0.3791 acc=0.8613 | time=30.9s
+Epoch [ 5/40] | LR=0.000402 | Train loss=0.5972 acc=0.7882 | Val loss=0.4459 acc=0.8578 | time=29.6s
+Epoch [ 6/40] | LR=0.000500 | Train loss=0.6191 acc=0.7694 | Val loss=0.4475 acc=0.8439 | time=29.2s
+Epoch [ 7/40] | LR=0.000499 | Train loss=0.5992 acc=0.7752 | Val loss=0.6465 acc=0.7723 | time=28.9s
+Epoch [ 8/40] | LR=0.000496 | Train loss=0.6338 acc=0.7659 | Val loss=0.4302 acc=0.8416 | time=29.1s
+Epoch [ 9/40] | LR=0.000491 | Train loss=0.6111 acc=0.7749 | Val loss=0.5739 acc=0.7977 | time=28.7s
+Epoch [10/40] | LR=0.000484 | Train loss=0.6055 acc=0.7740 | Val loss=0.5507 acc=0.7988 | time=28.2s
+Epoch [11/40] | LR=0.000475 | Train loss=0.5803 acc=0.7822 | Val loss=0.4459 acc=0.8358 | time=29.0s
+Epoch [12/40] | LR=0.000465 | Train loss=0.5651 acc=0.7923 | Val loss=0.5546 acc=0.8046 | time=30.0s
+Epoch [13/40] | LR=0.000452 | Train loss=0.5629 acc=0.7833 | Val loss=0.4946 acc=0.8277 | time=28.8s
+Epoch [14/40] | LR=0.000438 | Train loss=0.5459 acc=0.7937 | Val loss=0.5190 acc=0.8185 | time=29.1s
+Epoch [15/40] | LR=0.000423 | Train loss=0.5001 acc=0.8195 | Val loss=0.5048 acc=0.8197 | time=29.4s
+Epoch [16/40] | LR=0.000406 | Train loss=0.4995 acc=0.8195 | Val loss=0.4308 acc=0.8335 | time=29.3s
+Epoch [17/40] | LR=0.000388 | Train loss=0.4503 acc=0.8369 | Val loss=0.5228 acc=0.8069 | time=29.7s
+Epoch [18/40] | LR=0.000369 | Train loss=0.4397 acc=0.8447 | Val loss=0.4600 acc=0.8497 | time=29.3s
+Epoch [19/40] | LR=0.000349 | Train loss=0.4001 acc=0.8502 | Val loss=0.3976 acc=0.8520 | time=28.6s
+Epoch [20/40] | LR=0.000328 | Train loss=0.3669 acc=0.8653 | Val loss=0.4607 acc=0.8335 | time=28.1s
+Epoch [21/40] | LR=0.000306 | Train loss=0.3437 acc=0.8746 | Val loss=0.5145 acc=0.8358 | time=28.6s
+Epoch [22/40] | LR=0.000284 | Train loss=0.3290 acc=0.8769 | Val loss=0.5563 acc=0.8162 | time=28.3s
+Epoch [23/40] | LR=0.000262 | Train loss=0.2974 acc=0.8922 | Val loss=0.5241 acc=0.8231 | time=29.4s
+Epoch [24/40] | LR=0.000239 | Train loss=0.2505 acc=0.9070 | Val loss=0.4850 acc=0.8474 | time=29.4s
+Epoch [25/40] | LR=0.000217 | Train loss=0.2327 acc=0.9134 | Val loss=0.4950 acc=0.8520 | time=30.0s
+Epoch [26/40] | LR=0.000195 | Train loss=0.2126 acc=0.9238 | Val loss=0.5274 acc=0.8451 | time=30.5s
+Epoch [27/40] | LR=0.000173 | Train loss=0.1774 acc=0.9386 | Val loss=0.5435 acc=0.8486 | time=28.5s
+Epoch [28/40] | LR=0.000152 | Train loss=0.1491 acc=0.9476 | Val loss=0.5558 acc=0.8474 | time=28.5s
+Epoch [29/40] | LR=0.000132 | Train loss=0.1279 acc=0.9525 | Val loss=0.5626 acc=0.8451 | time=29.1s
+Epoch [30/40] | LR=0.000113 | Train loss=0.1137 acc=0.9615 | Val loss=0.5517 acc=0.8462 | time=28.6s
+Epoch [31/40] | LR=0.000095 | Train loss=0.0940 acc=0.9655 | Val loss=0.5699 acc=0.8717 | time=28.8s
+Epoch [32/40] | LR=0.000078 | Train loss=0.0841 acc=0.9733 | Val loss=0.5820 acc=0.8532 | time=28.8s
+Epoch [33/40] | LR=0.000063 | Train loss=0.0602 acc=0.9791 | Val loss=0.5780 acc=0.8647 | time=29.0s
+Epoch [34/40] | LR=0.000049 | Train loss=0.0599 acc=0.9797 | Val loss=0.5841 acc=0.8624 | time=28.7s
+Epoch [35/40] | LR=0.000036 | Train loss=0.0545 acc=0.9835 | Val loss=0.5911 acc=0.8671 | time=28.9s
+Epoch [36/40] | LR=0.000026 | Train loss=0.0365 acc=0.9870 | Val loss=0.6288 acc=0.8636 | time=28.9s
+Epoch [37/40] | LR=0.000017 | Train loss=0.0419 acc=0.9875 | Val loss=0.6182 acc=0.8751 | time=28.6s
+Epoch [38/40] | LR=0.000010 | Train loss=0.0344 acc=0.9873 | Val loss=0.6170 acc=0.8740 | time=28.6s
+Epoch [39/40] | LR=0.000005 | Train loss=0.0308 acc=0.9904 | Val loss=0.6136 acc=0.8705 | time=28.9s
+Epoch [40/40] | LR=0.000002 | Train loss=0.0317 acc=0.9916 | Val loss=0.6124 acc=0.8717 | time=29.6s
+✅ Best model saved! Acc=0.8994
+Epoch [ 1/40] | LR=0.000010 | Train loss=1.1321 acc=0.5652 | Val loss=0.4105 acc=0.8994 | time=30.2s
+✅ Best model saved! Acc=0.9017
+Epoch [ 2/40] | LR=0.000018 | Train loss=0.8306 acc=0.6831 | Val loss=0.2783 acc=0.9017 | time=29.8s
+✅ Best model saved! Acc=0.9191
+Epoch [ 3/40] | LR=0.000026 | Train loss=0.7632 acc=0.7037 | Val loss=0.2576 acc=0.9191 | time=29.7s
+✅ Best model saved! Acc=0.9387
+Epoch [ 4/40] | LR=0.000034 | Train loss=0.7364 acc=0.7054 | Val loss=0.1986 acc=0.9387 | time=29.3s
+✅ Best model saved! Acc=0.9410
+💾 Epoch 5 saved as epoch_5.pt
+Epoch [ 5/40] | LR=0.000042 | Train loss=0.6830 acc=0.7309 | Val loss=0.1875 acc=0.9410 | time=29.7s
+Epoch [ 6/40] | LR=0.000050 | Train loss=0.6782 acc=0.7294 | Val loss=0.1947 acc=0.9329 | time=29.7s
+✅ Best model saved! Acc=0.9480
+Epoch [ 7/40] | LR=0.000050 | Train loss=0.6260 acc=0.7439 | Val loss=0.1697 acc=0.9480 | time=30.1s
+Epoch [ 8/40] | LR=0.000050 | Train loss=0.6291 acc=0.7428 | Val loss=0.2154 acc=0.9341 | time=28.9s
+Epoch [ 9/40] | LR=0.000049 | Train loss=0.6074 acc=0.7494 | Val loss=0.1889 acc=0.9399 | time=28.8s
+💾 Epoch 10 saved as epoch_10.pt
+Epoch [10/40] | LR=0.000048 | Train loss=0.5593 acc=0.7662 | Val loss=0.1854 acc=0.9364 | time=29.4s
+Epoch [11/40] | LR=0.000048 | Train loss=0.5506 acc=0.7688 | Val loss=0.1890 acc=0.9329 | time=28.9s
+Epoch [12/40] | LR=0.000047 | Train loss=0.5301 acc=0.7746 | Val loss=0.2368 acc=0.9353 | time=29.7s
+Epoch [13/40] | LR=0.000045 | Train loss=0.5278 acc=0.7787 | Val loss=0.2070 acc=0.9364 | time=28.6s
+Epoch [14/40] | LR=0.000044 | Train loss=0.4949 acc=0.7874 | Val loss=0.1726 acc=0.9434 | time=28.1s
+💾 Epoch 15 saved as epoch_15.pt
+Epoch [15/40] | LR=0.000042 | Train loss=0.4996 acc=0.7804 | Val loss=0.2289 acc=0.9341 | time=29.0s
+Epoch [16/40] | LR=0.000041 | Train loss=0.4815 acc=0.7836 | Val loss=0.2764 acc=0.9272 | time=28.3s
+Epoch [17/40] | LR=0.000039 | Train loss=0.4639 acc=0.7955 | Val loss=0.2308 acc=0.9364 | time=28.8s
+✅ Best model saved! Acc=0.9491
+Epoch [18/40] | LR=0.000037 | Train loss=0.4539 acc=0.8030 | Val loss=0.1879 acc=0.9491 | time=28.2s
+✅ Best model saved! Acc=0.9503
+Epoch [19/40] | LR=0.000035 | Train loss=0.4229 acc=0.8178 | Val loss=0.1749 acc=0.9503 | time=28.6s
+💾 Epoch 20 saved as epoch_20.pt
+Epoch [20/40] | LR=0.000033 | Train loss=0.4308 acc=0.8137 | Val loss=0.1761 acc=0.9457 | time=29.4s
+Epoch [21/40] | LR=0.000031 | Train loss=0.4207 acc=0.8192 | Val loss=0.1981 acc=0.9445 | time=29.2s
+Epoch [22/40] | LR=0.000029 | Train loss=0.4082 acc=0.8181 | Val loss=0.1906 acc=0.9434 | time=28.5s
+Epoch [23/40] | LR=0.000027 | Train loss=0.3981 acc=0.8262 | Val loss=0.2111 acc=0.9387 | time=28.5s
+Epoch [24/40] | LR=0.000024 | Train loss=0.3587 acc=0.8415 | Val loss=0.2327 acc=0.9387 | time=28.2s
+💾 Epoch 25 saved as epoch_25.pt
+Epoch [25/40] | LR=0.000022 | Train loss=0.3657 acc=0.8384 | Val loss=0.1905 acc=0.9445 | time=28.1s
+Epoch [26/40] | LR=0.000020 | Train loss=0.3502 acc=0.8488 | Val loss=0.1963 acc=0.9445 | time=28.0s
+Epoch [27/40] | LR=0.000018 | Train loss=0.3144 acc=0.8636 | Val loss=0.2129 acc=0.9434 | time=28.3s
+Epoch [28/40] | LR=0.000016 | Train loss=0.3253 acc=0.8540 | Val loss=0.2027 acc=0.9445 | time=28.2s
+Epoch [29/40] | LR=0.000014 | Train loss=0.3052 acc=0.8717 | Val loss=0.2058 acc=0.9491 | time=28.5s
+💾 Epoch 30 saved as epoch_30.pt
+Epoch [30/40] | LR=0.000012 | Train loss=0.3178 acc=0.8592 | Val loss=0.1996 acc=0.9457 | time=28.3s
+✅ Best model saved! Acc=0.9538
+Epoch [31/40] | LR=0.000010 | Train loss=0.2865 acc=0.8830 | Val loss=0.1997 acc=0.9538 | time=28.6s
+Epoch [32/40] | LR=0.000009 | Train loss=0.2777 acc=0.8838 | Val loss=0.1849 acc=0.9538 | time=28.4s
+Epoch [33/40] | LR=0.000007 | Train loss=0.2632 acc=0.8862 | Val loss=0.1904 acc=0.9503 | time=29.1s
+Epoch [34/40] | LR=0.000006 | Train loss=0.2589 acc=0.8917 | Val loss=0.1860 acc=0.9468 | time=29.0s
+💾 Epoch 35 saved as epoch_35.pt
+Epoch [35/40] | LR=0.000004 | Train loss=0.2361 acc=0.8969 | Val loss=0.1900 acc=0.9514 | time=29.2s
+Epoch [36/40] | LR=0.000003 | Train loss=0.2464 acc=0.8911 | Val loss=0.1892 acc=0.9503 | time=29.1s
+Epoch [37/40] | LR=0.000003 | Train loss=0.2314 acc=0.9021 | Val loss=0.1874 acc=0.9526 | time=28.1s
+Epoch [38/40] | LR=0.000002 | Train loss=0.2384 acc=0.9035 | Val loss=0.1895 acc=0.9526 | time=28.6s
+✅ Best model saved! Acc=0.9549
+Epoch [39/40] | LR=0.000001 | Train loss=0.2443 acc=0.8992 | Val loss=0.1871 acc=0.9549 | time=29.1s
+💾 Epoch 40 saved as epoch_40.pt
+Epoch [40/40] | LR=0.000001 | Train loss=0.2269 acc=0.9073 | Val loss=0.1837 acc=0.9538 | time=29.1s
