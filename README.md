@@ -5,7 +5,7 @@
 本项目采用 DeiT-S (Data-efficient Image Transformer Small) 轻量化视觉 Transformer 模型，在 5 类花朵数据集（雏菊、蒲公英、玫瑰、向日葵、郁金香）上完成微调训练。通过精细化的数据增强策略与动态学习率调度，最终在 865 个验证样本上实现 95.49% 的分类准确率，兼顾模型泛化能力与工程落地性。
 
 # 项目结构
- uie/
+ '''uie/
  ├── test.jpg                  # 测试样例图片
  ├── test.py                   # 单图推理脚本
  ├── train.py                  # 训练主脚本
@@ -27,7 +27,7 @@
  └── work_dirs/                # 训练输出目录
      ├── best.pt               # 验证集最优权重
      ├── epoch_*.pt            # 各轮次检查点权重
-     └── log.txt               # 训练日志
+     └── log.txt               # 训练日志'''
 
 # 核心亮点
 1. 高性能指标：在 865 个验证样本上实现 95.49% 分类准确率，模型泛化能力优异。
@@ -45,7 +45,6 @@
 6. albumentations>=1.4.0
 7. opencv-python>=4.9.0
 8. Pillow>=10.0.0
-一键安装命令：pip install -r requirements.txt
 
 # 快速开始
 1. 克隆项目
