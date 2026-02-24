@@ -5,29 +5,29 @@
 本项目采用 DeiT-S (Data-efficient Image Transformer Small) 轻量化视觉 Transformer 模型，在 5 类花朵数据集（雏菊、蒲公英、玫瑰、向日葵、郁金香）上完成微调训练。通过精细化的数据增强策略与动态学习率调度，最终在 865 个验证样本上实现 95.49% 的分类准确率，兼顾模型泛化能力与工程落地性。
 
 # 项目结构
-uie/
-├── test.jpg                  # 测试样例图片
-├── test.py                   # 单图推理脚本
-├── train.py                  # 训练主脚本
-├── val.py                    # 批量验证脚本
-│
-├── data/                     # 数据集目录
-│   └── flowers/              # 5类花朵数据集
-│       ├── train/            # 训练集（按类别分文件夹）
-│       └── val/              # 验证集（按类别分文件夹）
-│
-├── uie/                      # 核心代码包
-│   ├── datasets/             # 数据处理模块
-│   ├── models/               # 模型定义模块
-│   ├── configs/              # 配置文件模块
-│   ├── losses/               # 损失函数模块
-│   ├── optim/                # 优化器与调度器
-│   └── utils/                # 工具函数
-│
-└── work_dirs/                # 训练输出目录
-    ├── best.pt               # 验证集最优权重
-    ├── epoch_*.pt            # 各轮次检查点权重
-    └── log.txt               # 训练日志
+ uie/
+ ├── test.jpg                  # 测试样例图片
+ ├── test.py                   # 单图推理脚本
+ ├── train.py                  # 训练主脚本
+ ├── val.py                    # 批量验证脚本
+ │
+ ├── data/                     # 数据集目录
+ │   └── flowers/              # 5类花朵数据集
+ │       ├── train/            # 训练集（按类别分文件夹）
+ │       └── val/              # 验证集（按类别分文件夹）
+ │
+ ├── uie/                      # 核心代码包
+ │   ├── datasets/             # 数据处理模块
+ │   ├── models/               # 模型定义模块
+ │   ├── configs/              # 配置文件模块
+ │   ├── losses/               # 损失函数模块
+ │   ├── optim/                # 优化器与调度器
+ │   └── utils/                # 工具函数
+ │
+ └── work_dirs/                # 训练输出目录
+     ├── best.pt               # 验证集最优权重
+     ├── epoch_*.pt            # 各轮次检查点权重
+     └── log.txt               # 训练日志
 
 # 核心亮点
 1. 高性能指标：在 865 个验证样本上实现 95.49% 分类准确率，模型泛化能力优异。
@@ -68,10 +68,10 @@ python val.py --checkpoint ./work_dirs/epoch_30.pt
 python test.py --img_path ./test.jpg --checkpoint ./work_dirs/best.pt
 
 # 实验结果
-验证集样本总数：865
-最终分类准确率：95.49%
-训练总轮次：40 轮
-最优权重对应轮次：第 39 轮
+1. 验证集样本总数：865
+2. 最终分类准确率：95.49%
+3. 训练总轮次：40 轮
+4. 最优权重对应轮次：第 39 轮
 
 # 许可证
 MIT License
